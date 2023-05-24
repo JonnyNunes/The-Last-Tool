@@ -1,7 +1,7 @@
 <html>
  
 <header>
-<strong># THE-LAST-TOOL</strong>
+ <strong># THE-LAST-TOOL</strong> <p>Acessa o master para os arquivos do projeto</p> 
  <p> <br></br>
  Repositório para o projeto "The Last Tool". </p>
 </header>
