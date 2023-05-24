@@ -1,0 +1,100 @@
+
+    body {
+        color: rgb(255, 255, 255);
+        background-color: rgba(1, 1, 10, 0.719);
+    }
+
+
+
+    #sessaoWelcome {
+        display: flex;
+        justify-content: center;
+    }
+    #sessaoWelcome {
+        background-color: rgba(228, 43, 10, 0.877);
+        box-shadow: 10px 10px 10px 0 rgba(228, 43, 10, 0.877);
+        margin-bottom: 15px;
+        border-radius: 5px;
+    }
+    #welcome {
+        border-radius: 2px;
+        background-color: rgb(68, 40, 25);
+        text-align: center;
+        width: 100%;
+        box-shadow: inset 0 0 1.5em 10px gold;
+        padding: 15px 15px;
+    }
+    #welcome h1 {
+        font-size: 36px;
+        text-shadow: -0.2em -0.8em 0.1em blue, -3.8em 0.8em 0.1em red, 3em 0.8em 0.1em green;
+        color: rgb(20, 198, 221);
+        text-transform: uppercase;
+        font-family:'Times New Roman', Times, serif;
+    }
+
+
+
+    .containerMain {
+        display: flex;
+        justify-content: space-around;
+        flex-direction: row-reverse;
+        align-items: center;
+        padding: 12px 0;
+        background-color: rgba(2, 2, 2, 0.274);
+        border: none;
+    }
+    .containerMain .textMain h1{
+        color: rgb(255, 255, 255);
+        font-size: 42px;
+        text-transform: uppercase;
+
+    }
+    .containerMain .textMain a {
+        border: 0.2em solid black;
+        text-transform: uppercase;
+        font-weight: 800;
+        text-decoration: none;
+    }
+    .textMain p {
+        font-family: Verdana, sans-serif;
+    }
+    .textMain {
+        color:white;
+        text-align: center;
+    }
+    .containerMain .imgMain img {
+        width: 100%;
+    }
+    .imgMain h1 {
+        text-transform: uppercase;
+        text-align: center;
+        margin: 8px 0;
+        color: rgba(29, 172, 172, 0.904);
+        text-shadow: 0 0 2em rgb(41, 8, 224);
+    }
+
+
+
+    #sobreSite h1 {
+        font-weight: 600;
+        font-size: 36px;
+    }
+    #sobreSite p {
+        font-weight: none;
+        font-family: Verdana, sans-serif;
+    }
+    #sobreUltimaPG {
+        color: rgb(20, 198, 221);
+    }
+
+    
+    #endDat {
+        display: flex;
+        justify-content: flex-end;
+    }
+    #endDat .endClass {
+        display: inline;
+        text-align: right;
+    }
+
+    
