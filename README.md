@@ -8,7 +8,7 @@
 
  <h1>Descrição</h1>
 
-@Em desenvolvimento desde de 2022 - Equipe: Jonny, Vitoria e Francisvan
+@Em desenvolvimento desde de 2022 - Equipe: Jonny
  
  O game trata-se de um jogo mobile de aventura, protagonizado por um personagem (garoto) envolvido por um conflito causado por um cientista obcecado por poder e dominação.
 
